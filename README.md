@@ -2,7 +2,7 @@
 
 This repository belongs to the article titled “Explainable Machine Learning Prediction For Traffic Congestion During COVID-19 Using Human Mobility and Street-Waste Features” which is under the submission phase. It contains 3 major folders.
 * Figures + Code contains the main figures along with the Python codes.
-*   Feature Selection + Model +clean Data contains the final cleaned data along with the model implementation.
+* Model + Data contains the final cleaned data along with the model implementation.
 
 For using these codes, please cite the article. 
 
