@@ -1,4 +1,4 @@
-#Explainable Machine Learning Prediction For Traffic Congestion During COVID-19 Using Human Mobility and Street-Waste Features
+# Explainable Machine Learning Prediction For Traffic Congestion During COVID-19 Using Human Mobility and Street-Waste Features
 
 This repository belongs to the article titled “Explainable Machine Learning Prediction For Traffic Congestion During COVID-19 Using Human Mobility and Street-Waste Features” which is under the submission phase. It contains 3 major folders.
 * Figures + Code contains the main figures along with the Python codes.
@@ -8,4 +8,4 @@ For using these codes, please cite the article.
 
 
 
-![Research Framework](https://user-images.githubusercontent.com/78085777/155408913-54574ad1-587b-46b9-8596-a12c114ae3dc.png)
+![Research Framework](https://github.com/NeginZarbakhsh/Dublin-Traffic-Congestion-During-the-COVID-19-Pandemic/blob/56d689f38b2109876ca9b9d7a33ed9abde40033b/Figures%20+%20Codes/JPGs/Fig2.jpg)
