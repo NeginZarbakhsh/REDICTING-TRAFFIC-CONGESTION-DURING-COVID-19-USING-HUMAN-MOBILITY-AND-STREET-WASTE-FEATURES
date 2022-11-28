@@ -1,4 +1,4 @@
-# Explainable Machine Learning Prediction For Traffic Congestion During COVID-19 Using Human Mobility and Street-Waste Features
+# "PREDICTING TRAFFIC CONGESTION DURING COVID-19 USING HUMAN MOBILITY AND STREET-WASTE FEATURES
 
 This repository belongs to the article titled “Explainable Machine Learning Prediction For Traffic Congestion During COVID-19 Using Human Mobility and Street-Waste Features” which is under the submission phase. It contains 3 major folders.
 * Figures + Code contains the main figures along with the Python codes.
